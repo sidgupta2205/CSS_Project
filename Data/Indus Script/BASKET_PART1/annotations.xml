@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>207990</id>
+      <name>Computational Social Science</name>
+      <size>9</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-25 06:11:19.520284+00:00</created>
+      <updated>2022-02-25 07:36:23.032885+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>8</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>298397</id>
+          <start>0</start>
+          <stop>8</stop>
+          <url>http://cvat.org/?id=298397</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>vishmishra8199</username>
+        <email>vishmishra8199@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>OVALS AND CIRCLES</name>
+          <color>#352708</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RECTANGLES AND RHOMBOID SIGN</name>
+          <color>#e701e4</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>CUPS</name>
+          <color>#3d8a2a</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>CURVES</name>
+          <color>#8f46ff</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>TRIANGULAR SIGNS</name>
+          <color>#bed2a7</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-02-25 07:44:09.230372+00:00</dumped>
+  </meta>
+  <image id="0" name="Screenshot (1088).png" width="1920" height="1080">
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="949.40" ytl="587.40" xbr="1040.91" ybr="656.05" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1500.00" ytl="474.90" xbr="1594.98" ybr="538.20" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1390.90" ytl="473.10" xbr="1485.92" ybr="536.44" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="507.90" ytl="473.10" xbr="588.85" ybr="545.23" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="281.00" ytl="585.70" xbr="372.50" ybr="657.80" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="54.10" ytl="473.10" xbr="150.87" ybr="541.71" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1726.90" ytl="591.00" xbr="1823.64" ybr="659.56" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1616.10" ytl="585.70" xbr="1712.83" ybr="654.29" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1505.30" ytl="587.40" xbr="1600.25" ybr="656.05" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1390.90" ytl="587.40" xbr="1492.96" ybr="652.53" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1276.60" ytl="587.40" xbr="1382.14" ybr="654.29" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1172.80" ytl="592.70" xbr="1260.78" ybr="652.53" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1055.00" ytl="592.70" xbr="1160.52" ybr="656.05" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="831.60" ytl="589.20" xbr="937.13" ybr="656.05" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="724.30" ytl="589.20" xbr="824.55" ybr="656.05" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="613.50" ytl="589.20" xbr="704.94" ybr="659.56" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="499.10" ytl="589.20" xbr="588.85" ybr="657.80" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="393.60" ytl="587.40" xbr="481.56" ybr="657.81" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="173.70" ytl="585.70" xbr="258.17" ybr="663.08" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="64.70" ytl="582.20" xbr="150.87" ybr="659.56" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1726.90" ytl="476.60" xbr="1816.61" ybr="536.44" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1610.80" ytl="476.60" xbr="1702.27" ybr="539.95" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1285.40" ytl="478.40" xbr="1369.83" ybr="532.92" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1160.50" ytl="474.90" xbr="1267.81" ybr="534.68" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="1062.00" ytl="474.90" xbr="1146.44" ybr="532.92" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="951.20" ytl="473.10" xbr="1035.63" ybr="536.44" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="833.30" ytl="478.40" xbr="937.13" ybr="541.71" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="726.10" ytl="474.90" xbr="817.52" ybr="541.71" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="613.50" ytl="474.90" xbr="696.15" ybr="539.95" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="393.60" ytl="473.10" xbr="479.80" ybr="545.23" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="282.80" ytl="471.40" xbr="367.22" ybr="539.95" z_order="0">
+    </box>
+    <box label="TRIANGULAR SIGNS" occluded="0" source="manual" xtl="179.00" ytl="473.10" xbr="254.65" ybr="543.47" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Screenshot (1089).png" width="1920" height="1080">
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1730.40" ytl="474.90" xbr="1825.40" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="500.90" ytl="583.90" xbr="606.44" ybr="654.29" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="617.00" ytl="585.70" xbr="719.02" ybr="659.56" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="729.60" ytl="583.90" xbr="821.04" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="59.40" ytl="587.40" xbr="149.11" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="170.20" ytl="587.40" xbr="268.72" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="284.60" ytl="583.90" xbr="381.30" ybr="654.29" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1732.20" ytl="583.90" xbr="1825.40" ybr="652.53" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1623.10" ytl="583.90" xbr="1716.35" ybr="652.53" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1503.50" ytl="585.70" xbr="1612.57" ybr="652.53" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1399.70" ytl="589.20" xbr="1496.48" ybr="654.29" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1283.60" ytl="587.40" xbr="1387.42" ybr="654.29" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1174.60" ytl="585.70" xbr="1266.05" ybr="652.53" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1063.80" ytl="587.40" xbr="1157.00" ybr="659.56" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="958.20" ytl="583.90" xbr="1047.94" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="833.30" ytl="585.70" xbr="944.16" ybr="656.05" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="395.40" ytl="585.70" xbr="490.35" ybr="652.53" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="59.40" ytl="474.90" xbr="147.36" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="163.20" ytl="480.10" xbr="259.93" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="281.00" ytl="478.40" xbr="370.74" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="386.60" ytl="478.40" xbr="483.32" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="504.40" ytl="474.90" xbr="595.89" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="613.50" ytl="476.60" xbr="704.94" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="726.10" ytl="476.60" xbr="814.00" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="840.40" ytl="478.40" xbr="930.09" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="947.70" ytl="480.10" xbr="1042.67" ybr="548.75" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1069.00" ytl="480.20" xbr="1153.48" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1169.30" ytl="474.90" xbr="1259.02" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1278.40" ytl="473.10" xbr="1378.63" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1390.90" ytl="471.40" xbr="1492.96" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1503.50" ytl="474.90" xbr="1598.49" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1612.60" ytl="478.40" xbr="1711.07" ybr="545.23" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Screenshot (1090).png" width="1920" height="1080">
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1552.76" ytl="589.21" xbr="1644.23" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1661.82" ytl="587.45" xbr="1740.97" ybr="656.05" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1661.82" ytl="476.63" xbr="1746.25" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1765.60" ytl="473.11" xbr="1851.79" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="759.50" ytl="473.10" xbr="856.22" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="759.50" ytl="585.70" xbr="865.01" ybr="659.56" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="880.80" ytl="476.60" xbr="977.58" ybr="548.75" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="880.80" ytl="585.70" xbr="979.34" ybr="659.56" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="989.90" ytl="476.60" xbr="1079.60" ybr="546.99" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="993.40" ytl="589.20" xbr="1084.88" ybr="656.05" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1095.40" ytl="471.40" xbr="1185.14" ybr="543.47" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1102.50" ytl="583.90" xbr="1193.93" ybr="657.80" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1208.00" ytl="474.90" xbr="1302.99" ybr="545.23" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1208.00" ytl="589.20" xbr="1310.03" ybr="659.56" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1320.60" ytl="474.90" xbr="1413.80" ybr="543.47" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1325.90" ytl="587.40" xbr="1415.56" ybr="657.81" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1436.70" ytl="473.10" xbr="1526.38" ybr="548.75" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1434.90" ytl="587.40" xbr="1529.90" ybr="656.05" z_order="0">
+    </box>
+    <box label="RECTANGLES AND RHOMBOID SIGN" occluded="0" source="manual" xtl="1554.50" ytl="474.90" xbr="1638.95" ybr="546.99" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Screenshot (1091).png" width="1920" height="1080">
+    <box label="CURVES" occluded="0" source="manual" xtl="609.96" ytl="592.72" xbr="719.02" ybr="664.84" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1737.45" ytl="594.48" xbr="1830.68" ybr="656.05" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1621.36" ytl="592.72" xbr="1711.07" ybr="652.53" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1514.07" ytl="592.72" xbr="1600.25" ybr="657.80" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1394.46" ytl="592.72" xbr="1498.23" ybr="661.32" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1292.44" ytl="589.21" xbr="1380.38" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1181.62" ytl="589.21" xbr="1278.36" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1074.33" ytl="589.21" xbr="1160.51" ybr="661.32" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="961.75" ytl="592.72" xbr="1046.18" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="843.90" ytl="590.96" xbr="940.64" ybr="656.05" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="734.85" ytl="590.96" xbr="826.31" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="507.94" ytl="592.72" xbr="597.65" ybr="661.32" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="400.64" ytl="590.96" xbr="485.07" ybr="668.36" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="288.07" ytl="589.21" xbr="374.26" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="168.46" ytl="592.72" xbr="258.17" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="62.93" ytl="594.48" xbr="147.36" ybr="663.08" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="68.20" ytl="476.63" xbr="145.60" ybr="548.75" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="166.70" ytl="481.91" xbr="258.17" ybr="550.51" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="277.52" ytl="481.91" xbr="368.98" ybr="552.27" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="393.61" ytl="473.11" xbr="476.28" ybr="550.51" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1726.90" ytl="478.39" xbr="1830.68" ybr="562.82" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1628.40" ytl="476.63" xbr="1705.79" ybr="561.06" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1512.31" ytl="478.39" xbr="1605.53" ybr="561.06" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1387.42" ytl="480.15" xbr="1492.96" ybr="562.82" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1287.16" ytl="476.63" xbr="1373.35" ybr="561.06" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1181.62" ytl="476.63" xbr="1267.81" ybr="562.82" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1069.05" ytl="478.39" xbr="1160.51" ybr="561.06" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="959.99" ytl="476.63" xbr="1053.22" ybr="559.30" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="845.66" ytl="480.15" xbr="951.20" ybr="555.79" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="736.61" ytl="476.63" xbr="824.55" ybr="554.03" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="618.76" ytl="476.63" xbr="717.26" ybr="555.79" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="507.94" ytl="476.63" xbr="599.41" ybr="554.03" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Screenshot (1092).png" width="1920" height="1080">
+    <box label="CURVES" occluded="0" source="manual" xtl="1665.34" ytl="592.72" xbr="1751.52" ybr="652.53" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1317.06" ytl="589.21" xbr="1429.64" ybr="652.53" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1436.67" ytl="476.63" xbr="1522.86" ybr="538.20" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1448.98" ytl="589.21" xbr="1535.17" ybr="652.53" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1317.06" ytl="476.63" xbr="1415.56" ybr="539.95" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1767.36" ytl="474.87" xbr="1853.54" ybr="539.95" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1547.49" ytl="478.39" xbr="1645.99" ybr="543.47" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1551.00" ytl="590.96" xbr="1651.26" ybr="652.53" z_order="0">
+    </box>
+    <box label="CURVES" occluded="0" source="manual" xtl="1663.58" ytl="476.63" xbr="1748.01" ybr="543.47" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Screenshot (1093).png" width="1920" height="1080">
+    <box label="CUPS" occluded="0" source="manual" xtl="64.68" ytl="476.63" xbr="149.11" ybr="541.71" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="175.50" ytl="476.63" xbr="254.65" ybr="539.95" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="289.83" ytl="476.63" xbr="376.02" ybr="543.47" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="395.37" ytl="476.63" xbr="479.80" ybr="543.47" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="513.22" ytl="476.63" xbr="599.41" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="620.51" ytl="476.63" xbr="706.70" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="736.61" ytl="473.11" xbr="824.55" ybr="550.51" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="845.66" ytl="476.63" xbr="937.13" ybr="550.51" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="954.72" ytl="474.87" xbr="1051.46" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1067.29" ytl="476.63" xbr="1153.48" ybr="546.99" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1174.59" ytl="480.15" xbr="1262.53" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1294.20" ytl="478.39" xbr="1390.94" ybr="548.75" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1401.49" ytl="476.63" xbr="1496.48" ybr="550.51" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1519.34" ytl="473.11" xbr="1602.01" ybr="552.27" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1626.64" ytl="473.11" xbr="1716.35" ybr="543.47" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1739.21" ytl="476.63" xbr="1813.09" ybr="546.99" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="64.68" ytl="589.21" xbr="149.11" ybr="657.80" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="170.22" ytl="587.45" xbr="268.72" ybr="661.32" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="298.63" ytl="590.96" xbr="372.50" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="393.61" ytl="592.72" xbr="478.04" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="506.18" ytl="594.48" xbr="592.37" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="613.48" ytl="589.21" xbr="704.94" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="838.63" ytl="594.48" xbr="928.33" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="726.05" ytl="592.72" xbr="817.52" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="947.68" ytl="587.45" xbr="1051.46" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1072.57" ytl="589.21" xbr="1157.00" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1172.83" ytl="590.96" xbr="1264.29" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1281.88" ytl="587.45" xbr="1383.90" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1405.01" ytl="589.21" xbr="1496.48" ybr="661.32" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1521.10" ytl="590.96" xbr="1605.53" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1626.64" ytl="589.21" xbr="1726.90" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1742.73" ytl="594.48" xbr="1814.85" ybr="654.29" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Screenshot (1094).png" width="1920" height="1080">
+    <box label="CUPS" occluded="0" source="manual" xtl="441.10" ytl="589.21" xbr="532.57" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="85.79" ytl="471.36" xbr="191.33" ybr="538.20" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="212.44" ytl="473.11" xbr="303.90" ybr="539.95" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="325.01" ytl="473.11" xbr="430.55" ybr="541.71" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="439.34" ytl="474.87" xbr="527.29" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="532.57" ytl="473.11" xbr="639.86" ybr="539.95" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="655.69" ytl="476.63" xbr="754.20" ybr="538.20" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="766.51" ytl="476.63" xbr="861.49" ybr="536.44" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="880.84" ytl="476.63" xbr="975.82" ybr="539.95" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="991.65" ytl="476.63" xbr="1084.88" ybr="541.71" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1100.71" ytl="476.63" xbr="1195.69" ybr="543.47" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1211.52" ytl="474.87" xbr="1310.03" ybr="541.71" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1325.86" ytl="476.63" xbr="1422.60" ybr="538.20" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1441.95" ytl="476.63" xbr="1528.14" ybr="541.71" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1547.49" ytl="476.63" xbr="1645.99" ybr="543.47" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1661.82" ytl="476.63" xbr="1751.52" ybr="545.23" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1769.11" ytl="476.63" xbr="1865.86" ybr="546.99" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="77.00" ytl="589.21" xbr="196.61" ybr="650.77" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="221.23" ytl="590.96" xbr="303.90" ybr="652.53" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="323.25" ytl="590.96" xbr="427.03" ybr="654.29" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="553.67" ytl="589.21" xbr="648.66" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="664.49" ytl="592.72" xbr="754.20" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="764.75" ytl="590.96" xbr="870.29" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="889.64" ytl="590.96" xbr="972.31" ybr="656.05" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="993.41" ytl="589.21" xbr="1083.12" ybr="652.53" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1100.71" ytl="589.21" xbr="1192.18" ybr="652.53" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1211.52" ytl="590.96" xbr="1313.54" ybr="652.53" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1334.65" ytl="590.96" xbr="1408.53" ybr="657.80" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1433.15" ytl="590.96" xbr="1531.65" ybr="659.56" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1556.28" ytl="589.21" xbr="1644.23" ybr="657.80" z_order="0">
+    </box>
+    <box label="CUPS" occluded="0" source="manual" xtl="1665.34" ytl="589.21" xbr="1760.32" ybr="656.05" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Screenshot (1095).png" width="1920" height="1080">
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1169.31" ytl="480.15" xbr="1264.29" ybr="543.47" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="168.46" ytl="478.39" xbr="263.45" ybr="538.20" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="275.76" ytl="476.63" xbr="393.61" ybr="546.99" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="402.40" ytl="480.15" xbr="481.56" ybr="546.99" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="500.91" ytl="480.15" xbr="594.13" ybr="546.99" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="613.48" ytl="481.91" xbr="722.53" ybr="545.23" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="741.88" ytl="481.91" xbr="824.55" ybr="548.75" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="842.14" ytl="481.91" xbr="935.37" ybr="546.99" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="952.96" ytl="478.39" xbr="1049.70" ybr="546.99" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1060.25" ytl="478.39" xbr="1155.24" ybr="545.23" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="54.13" ytl="478.39" xbr="156.15" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1281.88" ytl="478.39" xbr="1373.35" ybr="543.47" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1387.42" ytl="481.91" xbr="1498.23" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1517.58" ytl="480.15" xbr="1605.53" ybr="548.75" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1633.67" ytl="478.39" xbr="1721.62" ybr="543.47" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1730.94" ytl="478.57" xbr="1831.21" ybr="547.17" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="61.17" ytl="596.24" xbr="159.67" ybr="657.80" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="175.50" ytl="596.24" xbr="266.96" ybr="657.80" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="288.07" ytl="592.72" xbr="379.54" ybr="657.80" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="395.37" ytl="587.45" xbr="490.35" ybr="657.80" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="509.70" ytl="585.69" xbr="604.68" ybr="659.56" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="622.27" ytl="585.69" xbr="708.46" ybr="659.56" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="733.09" ytl="585.69" xbr="824.55" ybr="659.56" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="843.90" ytl="590.96" xbr="942.40" ybr="654.29" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="956.48" ytl="590.96" xbr="1049.70" ybr="654.29" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1067.29" ytl="587.45" xbr="1149.96" ybr="650.77" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1179.86" ytl="589.21" xbr="1269.57" ybr="650.77" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1288.92" ytl="589.21" xbr="1378.63" ybr="649.01" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1401.49" ytl="589.21" xbr="1485.92" ybr="647.25" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1507.03" ytl="594.48" xbr="1594.98" ybr="652.53" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1612.57" ytl="596.24" xbr="1711.07" ybr="654.29" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1732.18" ytl="594.48" xbr="1828.92" ybr="652.53" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Screenshot (1096).png" width="1920" height="1080">
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1542.21" ytl="587.45" xbr="1642.47" ybr="652.53" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1436.67" ytl="589.21" xbr="1528.14" ybr="652.53" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1331.13" ytl="590.96" xbr="1415.56" ybr="652.53" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1211.52" ytl="587.45" xbr="1318.82" ybr="649.01" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1095.43" ytl="592.72" xbr="1190.42" ybr="650.77" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1767.36" ytl="478.39" xbr="1864.10" ybr="545.23" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1663.58" ytl="480.15" xbr="1746.25" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1320.58" ytl="476.63" xbr="1412.05" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1436.67" ytl="478.39" xbr="1531.65" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1090.68" ytl="476.81" xbr="1185.67" ybr="540.13" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1211.52" ytl="478.39" xbr="1302.99" ybr="539.95" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1545.73" ytl="480.15" xbr="1633.67" ybr="541.71" z_order="0">
+    </box>
+    <box label="OVALS AND CIRCLES" occluded="0" source="manual" xtl="1653.02" ytl="589.21" xbr="1760.32" ybr="652.53" z_order="0">
+    </box>
+  </image>
+</annotations>
