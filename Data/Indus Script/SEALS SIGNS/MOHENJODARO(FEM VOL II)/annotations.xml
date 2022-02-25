@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>208396</id>
+      <name>Seals Signs</name>
+      <size>202</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-25 14:10:25.515653+00:00</created>
+      <updated>2022-02-25 16:12:32.024715+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>201</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>300048</id>
+          <start>0</start>
+          <stop>201</stop>
+          <url>http://cvat.org/?id=300048</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>pulkit_gupta</username>
+        <email>cesarokingofswing@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Seals Signs</name>
+          <color>#ff0029</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Animals</name>
+          <color>#2a00f5</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Anthropomorphic forms</name>
+          <color>#4e834e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tree,Leaves</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Various Symbols</name>
+          <color>#78c58c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Reptiles,Fish,Birds</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-02-25 16:13:22.530505+00:00</dumped>
+  </meta>
+  <image id="0" name="Screenshot (0).png" width="348" height="136">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="43.40" ytl="26.70" xbr="332.96" ybr="109.26" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Screenshot (1).png" width="178" height="91">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="21.29" ytl="17.77" xbr="162.44" ybr="63.56" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Screenshot (10).png" width="174" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="30.06" ytl="15.76" xbr="159.50" ybr="61.20" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Screenshot (100).png" width="470" height="113">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="27.89" ytl="27.23" xbr="462.46" ybr="82.49" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Screenshot (101).png" width="217" height="73">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.51" ytl="9.23" xbr="212.86" ybr="61.35" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Screenshot (102).png" width="128" height="93">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.81" ytl="19.39" xbr="113.75" ybr="69.52" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Screenshot (103).png" width="331" height="101">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.93" ytl="18.92" xbr="315.99" ybr="75.81" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Screenshot (104).png" width="167" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="28.19" ytl="15.84" xbr="156.76" ybr="62.50" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Screenshot (105).png" width="251" height="98">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.88" ytl="12.68" xbr="240.65" ybr="76.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Screenshot (106).png" width="121" height="107">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.08" ytl="26.67" xbr="116.70" ybr="71.98" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Screenshot (107).png" width="178" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="22.11" ytl="24.80" xbr="167.20" ybr="75.43" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Screenshot (108).png" width="269" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.33" ytl="9.62" xbr="257.37" ybr="54.50" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Screenshot (109).png" width="191" height="102">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.50" ytl="21.62" xbr="177.38" ybr="74.24" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Screenshot (11).png" width="351" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="37.03" ytl="17.41" xbr="331.23" ybr="82.32" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Screenshot (110).png" width="117" height="71">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="33.16" ytl="14.80" xbr="106.88" ybr="57.13" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Screenshot (111).png" width="331" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.65" ytl="9.24" xbr="327.67" ybr="59.14" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="Screenshot (112).png" width="321" height="106">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.03" ytl="22.68" xbr="310.35" ybr="80.10" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Screenshot (113).png" width="150" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.11" ytl="4.50" xbr="141.86" ybr="62.54" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Screenshot (114).png" width="371" height="84">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.32" ytl="11.07" xbr="366.15" ybr="72.59" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Screenshot (115).png" width="261" height="94">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.00" ytl="13.43" xbr="255.49" ybr="79.27" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="Screenshot (116).png" width="175" height="97">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.73" ytl="17.54" xbr="166.74" ybr="75.41" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="Screenshot (117).png" width="255" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.89" ytl="10.27" xbr="248.08" ybr="66.40" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="Screenshot (118).png" width="176" height="78">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.73" ytl="8.75" xbr="163.97" ybr="64.47" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="Screenshot (119).png" width="172" height="69">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.39" ytl="9.27" xbr="160.77" ybr="59.74" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="Screenshot (12).png" width="531" height="113">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.99" ytl="18.07" xbr="527.78" ybr="90.65" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="Screenshot (120).png" width="161" height="102">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.62" ytl="22.26" xbr="155.18" ybr="80.74" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="Screenshot (121).png" width="225" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.34" ytl="12.46" xbr="219.57" ybr="63.56" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="Screenshot (122).png" width="467" height="92">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.64" ytl="13.15" xbr="461.85" ybr="71.35" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="Screenshot (123).png" width="151" height="92">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.87" ytl="14.74" xbr="145.24" ybr="67.55" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="Screenshot (124).png" width="205" height="64">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.22" ytl="2.33" xbr="202.32" ybr="58.78" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="Screenshot (125).png" width="314" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.80" ytl="3.17" xbr="305.81" ybr="59.97" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="Screenshot (126).png" width="199" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.80" ytl="8.00" xbr="194.20" ybr="63.20" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="Screenshot (127).png" width="287" height="92">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.68" ytl="11.67" xbr="279.49" ybr="73.40" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="Screenshot (128).png" width="313" height="73">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.81" ytl="20.45" xbr="301.99" ybr="71.73" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="Screenshot (129).png" width="144" height="70">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.53" ytl="4.76" xbr="138.50" ybr="58.45" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="Screenshot (13).png" width="391" height="110">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="0.77" ytl="18.85" xbr="379.59" ybr="85.65" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="Screenshot (130).png" width="191" height="98">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="4.23" ytl="24.42" xbr="186.21" ybr="74.91" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Screenshot (131).png" width="179" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.90" ytl="8.28" xbr="173.07" ybr="58.47" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Screenshot (132).png" width="229" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.57" ytl="8.92" xbr="220.25" ybr="70.37" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="Screenshot (133).png" width="255" height="98">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="4.10" ytl="16.71" xbr="249.87" ybr="77.45" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="Screenshot (134).png" width="378" height="95">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.24" ytl="3.44" xbr="371.91" ybr="66.89" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Screenshot (135).png" width="232" height="101">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="11.89" ytl="21.36" xbr="226.87" ybr="77.09" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="Screenshot (136).png" width="177" height="121">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.83" ytl="30.35" xbr="162.90" ybr="92.82" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="Screenshot (137).png" width="129" height="73">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.89" ytl="11.35" xbr="119.66" ybr="63.85" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="Screenshot (138).png" width="178" height="101">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="6.80" ytl="19.38" xbr="172.28" ybr="70.36" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Screenshot (139).png" width="295" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="3.27" ytl="8.37" xbr="288.19" ybr="63.81" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Screenshot (14).png" width="206" height="93">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.05" ytl="16.90" xbr="200.62" ybr="76.53" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="Screenshot (140).png" width="403" height="91">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.78" ytl="12.69" xbr="398.15" ybr="75.06" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="Screenshot (141).png" width="262" height="137">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.06" ytl="32.70" xbr="253.31" ybr="95.63" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="Screenshot (142).png" width="175" height="82">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.19" ytl="6.71" xbr="170.61" ybr="63.69" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="Screenshot (143).png" width="181" height="120">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.77" ytl="25.01" xbr="169.75" ybr="88.92" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="Screenshot (144).png" width="350" height="86">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="3.51" ytl="8.54" xbr="342.60" ybr="72.21" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="Screenshot (145).png" width="164" height="71">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="4.12" ytl="6.83" xbr="158.73" ybr="59.90" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="Screenshot (146).png" width="303" height="66">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="11.57" ytl="1.34" xbr="296.91" ybr="56.16" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="Screenshot (147).png" width="304" height="119">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.94" ytl="19.18" xbr="300.94" ybr="83.96" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="Screenshot (148).png" width="383" height="100">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="11.93" ytl="20.36" xbr="373.76" ybr="79.63" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="Screenshot (149).png" width="259" height="81">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.89" ytl="12.39" xbr="253.79" ybr="65.49" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="Screenshot (15).png" width="193" height="94">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.26" ytl="17.32" xbr="184.07" ybr="66.20" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="Screenshot (150).png" width="134" height="81">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="32.19" ytl="18.28" xbr="128.08" ybr="67.17" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="Screenshot (151).png" width="297" height="100">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="3.59" ytl="11.50" xbr="288.05" ybr="78.66" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="Screenshot (16).png" width="143" height="125">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="27.83" ytl="32.98" xbr="131.25" ybr="82.25" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="Screenshot (17).png" width="396" height="109">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.72" ytl="13.92" xbr="381.26" ybr="84.76" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="Screenshot (18).png" width="287" height="95">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="22.20" ytl="12.88" xbr="280.35" ybr="75.47" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="Screenshot (19).png" width="310" height="124">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.38" ytl="14.33" xbr="301.59" ybr="89.42" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="Screenshot (2).png" width="132" height="100">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="24.38" ytl="23.45" xbr="115.26" ybr="77.85" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="Screenshot (20).png" width="239" height="93">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.20" ytl="9.26" xbr="234.19" ybr="72.19" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="Screenshot (21).png" width="226" height="70">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.85" ytl="4.11" xbr="216.23" ybr="58.17" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="Screenshot (22).png" width="441" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="2.20" ytl="7.65" xbr="438.32" ybr="69.25" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="Screenshot (23).png" width="158" height="93">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="28.74" ytl="14.58" xbr="153.71" ybr="67.45" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="Screenshot (24).png" width="387" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="6.21" ytl="3.60" xbr="381.54" ybr="82.17" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="Screenshot (25).png" width="204" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.40" ytl="4.46" xbr="197.84" ybr="62.48" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="Screenshot (26).png" width="418" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.01" ytl="0.94" xbr="412.30" ybr="69.50" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="Screenshot (27).png" width="476" height="60">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.02" ytl="0.84" xbr="468.80" ybr="54.90" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="Screenshot (28).png" width="363" height="106">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="22.98" ytl="22.36" xbr="357.16" ybr="77.45" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="Screenshot (29).png" width="247" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="35.50" ytl="14.43" xbr="226.15" ybr="70.53" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="Screenshot (3).png" width="254" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.69" ytl="18.36" xbr="242.01" ybr="76.82" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="Screenshot (30).png" width="223" height="88">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.21" ytl="13.98" xbr="216.94" ybr="72.47" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="Screenshot (31).png" width="298" height="87">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.78" ytl="12.36" xbr="290.51" ybr="71.07" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="Screenshot (32).png" width="195" height="90">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.22" ytl="16.38" xbr="183.04" ybr="75.57" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="Screenshot (33).png" width="178" height="88">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.18" ytl="13.58" xbr="174.07" ybr="67.97" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="Screenshot (34).png" width="314" height="110">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.69" ytl="17.43" xbr="305.81" ybr="78.97" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="Screenshot (35).png" width="210" height="102">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.77" ytl="13.22" xbr="195.66" ybr="76.12" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="Screenshot (36).png" width="330" height="106">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.59" ytl="13.55" xbr="323.05" ybr="85.52" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="Screenshot (37).png" width="295" height="120">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="2.97" ytl="26.78" xbr="287.89" ybr="96.16" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="Screenshot (38).png" width="291" height="88">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.83" ytl="12.70" xbr="278.72" ybr="72.65" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="Screenshot (39).png" width="87" height="60">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.35" ytl="2.20" xbr="77.75" ybr="53.60" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="Screenshot (4).png" width="358" height="111">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="23.74" ytl="10.89" xbr="350.79" ybr="89.33" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="Screenshot (40).png" width="325" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="1.63" ytl="3.36" xbr="321.08" ybr="61.50" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="Screenshot (41).png" width="114" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.66" ytl="6.82" xbr="110.71" ybr="57.13" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="Screenshot (42).png" width="336" height="84">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.25" ytl="3.84" xbr="322.14" ybr="74.08" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="Screenshot (43).png" width="403" height="105">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="0.82" ytl="18.88" xbr="399.36" ybr="78.83" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="Screenshot (44).png" width="319" height="64">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="6.42" ytl="2.83" xbr="318.05" ybr="51.24" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="Screenshot (45).png" width="278" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.53" ytl="4.52" xbr="264.59" ybr="77.73" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="Screenshot (46).png" width="411" height="86">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.26" ytl="9.13" xbr="403.15" ybr="76.05" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="Screenshot (47).png" width="245" height="90">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="3.70" ytl="12.98" xbr="238.60" ybr="74.05" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="Screenshot (48).png" width="394" height="87">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="4.74" ytl="8.26" xbr="390.82" ybr="74.39" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="Screenshot (49).png" width="207" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.07" ytl="9.70" xbr="201.59" ybr="66.10" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="Screenshot (5).png" width="271" height="94">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="11.71" ytl="13.24" xbr="262.29" ybr="74.52" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="Screenshot (50).png" width="359" height="88">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="2.53" ytl="2.13" xbr="353.23" ybr="62.02" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="Screenshot (51).png" width="283" height="110">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.93" ytl="17.17" xbr="277.31" ybr="90.56" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="Screenshot (52).png" width="193" height="89">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="30.25" ytl="15.39" xbr="175.73" ybr="82.53" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="Screenshot (53).png" width="247" height="82">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="21.60" ytl="7.72" xbr="235.58" ybr="68.05" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="Screenshot (54).png" width="315" height="69">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.36" ytl="3.78" xbr="310.26" ybr="62.66" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="Screenshot (55).png" width="243" height="94">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.95" ytl="9.63" xbr="222.49" ybr="80.45" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="Screenshot (56).png" width="365" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.35" ytl="8.67" xbr="354.01" ybr="67.76" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="Screenshot (57).png" width="226" height="117">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="23.16" ytl="30.34" xbr="215.09" ybr="92.35" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="Screenshot (58).png" width="359" height="90">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.30" ytl="6.75" xbr="352.51" ybr="69.89" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="Screenshot (59).png" width="563" height="103">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.70" ytl="8.48" xbr="544.89" ybr="83.74" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="Screenshot (6).png" width="286" height="67">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="35.94" ytl="11.94" xbr="270.78" ybr="63.68" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="Screenshot (60).png" width="281" height="111">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.92" ytl="23.01" xbr="261.79" ybr="80.06" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="Screenshot (61).png" width="378" height="109">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.46" ytl="21.07" xbr="365.83" ybr="90.21" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="Screenshot (62).png" width="224" height="89">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="21.38" ytl="7.13" xbr="212.73" ybr="67.91" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="Screenshot (63).png" width="168" height="85">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.37" ytl="9.92" xbr="159.23" ybr="65.97" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="Screenshot (64).png" width="266" height="116">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.16" ytl="20.83" xbr="259.05" ybr="86.33" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="Screenshot (65).png" width="241" height="94">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.66" ytl="11.15" xbr="237.37" ybr="75.58" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="Screenshot (66).png" width="117" height="67">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.58" ytl="4.10" xbr="112.06" ybr="55.02" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="Screenshot (67).png" width="303" height="104">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.49" ytl="13.95" xbr="296.30" ybr="76.07" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="Screenshot (68).png" width="295" height="96">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.05" ytl="9.47" xbr="293.23" ybr="77.36" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="Screenshot (69).png" width="196" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.40" ytl="9.93" xbr="187.14" ybr="65.09" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="Screenshot (7).png" width="225" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.83" ytl="14.67" xbr="214.14" ybr="79.12" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="Screenshot (70).png" width="295" height="96">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.02" ytl="10.65" xbr="290.27" ybr="78.84" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="Screenshot (71).png" width="195" height="112">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="21.56" ytl="19.36" xbr="184.02" ybr="87.76" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="Screenshot (72).png" width="326" height="70">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="29.50" ytl="5.19" xbr="322.08" ybr="64.49" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="Screenshot (73).png" width="95" height="104">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.58" ytl="25.41" xbr="82.65" ybr="73.86" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="Screenshot (74).png" width="378" height="112">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.86" ytl="10.39" xbr="368.49" ybr="78.02" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="Screenshot (75).png" width="370" height="95">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="22.30" ytl="14.04" xbr="361.81" ybr="74.29" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="Screenshot (76).png" width="378" height="74">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.34" ytl="5.84" xbr="365.07" ybr="63.96" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="Screenshot (77).png" width="216" height="69">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.47" ytl="6.28" xbr="208.62" ybr="57.94" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="Screenshot (78).png" width="232" height="66">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.82" ytl="4.78" xbr="216.15" ybr="54.45" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="Screenshot (79).png" width="214" height="67">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.28" ytl="2.96" xbr="205.82" ybr="56.51" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="Screenshot (8).png" width="318" height="89">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="23.34" ytl="11.26" xbr="305.23" ybr="74.86" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="Screenshot (80).png" width="228" height="101">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.24" ytl="20.02" xbr="218.36" ybr="72.95" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="Screenshot (81).png" width="229" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.94" ytl="15.44" xbr="222.32" ybr="76.89" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="Screenshot (82).png" width="278" height="87">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.66" ytl="7.74" xbr="272.41" ybr="73.12" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="Screenshot (83).png" width="72" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.24" ytl="4.77" xbr="68.41" ybr="59.70" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="Screenshot (84).png" width="253" height="89">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="1.52" ytl="6.10" xbr="252.49" ybr="80.09" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="Screenshot (85).png" width="196" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="4.53" ytl="4.87" xbr="192.06" ybr="61.21" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="Screenshot (86).png" width="279" height="101">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.39" ytl="14.62" xbr="271.72" ybr="84.72" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="Screenshot (87).png" width="361" height="88">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.43" ytl="5.55" xbr="354.83" ybr="76.66" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="Screenshot (88).png" width="441" height="106">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.48" ytl="11.33" xbr="433.00" ybr="89.33" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="Screenshot (89).png" width="229" height="102">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="30.37" ytl="19.46" xbr="214.72" ybr="88.74" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="Screenshot (9).png" width="118" height="82">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.92" ytl="10.29" xbr="115.15" ybr="61.71" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="Screenshot (90).png" width="157" height="120">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="6.48" ytl="29.31" xbr="151.11" ybr="89.50" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="Screenshot (91).png" width="208" height="110">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="23.63" ytl="10.90" xbr="206.96" ybr="76.96" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="Screenshot (92).png" width="408" height="89">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.85" ytl="2.25" xbr="406.76" ybr="68.27" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="Screenshot (93).png" width="202" height="105">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.59" ytl="14.33" xbr="198.54" ybr="78.88" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="Screenshot (94).png" width="186" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="25.41" ytl="6.53" xbr="175.90" ybr="67.29" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="Screenshot (95).png" width="166" height="97">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.86" ytl="10.80" xbr="161.34" ybr="69.86" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="Screenshot (96).png" width="469" height="122">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.10" ytl="19.53" xbr="463.36" ybr="93.06" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="Screenshot (97).png" width="120" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.64" ytl="9.13" xbr="112.30" ybr="60.34" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="Screenshot (98).png" width="557" height="76">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.50" ytl="1.60" xbr="555.86" ybr="67.10" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="Screenshot (99).png" width="230" height="87">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.81" ytl="12.05" xbr="220.76" ybr="74.72" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="Screenshot - 2022-02-25T141647.387.png" width="165" height="100">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="45.93" ytl="17.33" xbr="158.36" ybr="71.55" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="Screenshot - 2022-02-25T141656.446.png" width="232" height="96">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.66" ytl="11.40" xbr="225.47" ybr="82.05" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="Screenshot - 2022-02-25T141703.436.png" width="316" height="69">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.21" ytl="2.41" xbr="312.50" ybr="61.80" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="Screenshot - 2022-02-25T141710.346.png" width="148" height="108">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.33" ytl="22.87" xbr="143.74" ybr="76.52" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="Screenshot - 2022-02-25T141717.520.png" width="274" height="67">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="11.84" ytl="4.05" xbr="268.49" ybr="55.54" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="Screenshot - 2022-02-25T141723.589.png" width="250" height="73">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="24.12" ytl="6.86" xbr="240.45" ybr="64.15" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="Screenshot - 2022-02-25T141729.613.png" width="371" height="116">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="10.81" ytl="16.25" xbr="362.79" ybr="84.49" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="Screenshot - 2022-02-25T141735.844.png" width="194" height="90">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="34.12" ytl="10.49" xbr="187.76" ybr="68.39" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="Screenshot - 2022-02-25T141742.320.png" width="429" height="119">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.73" ytl="17.67" xbr="425.55" ybr="95.71" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="Screenshot - 2022-02-25T141748.099.png" width="217" height="97">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.53" ytl="7.73" xbr="210.25" ybr="68.14" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="Screenshot - 2022-02-25T141754.726.png" width="280" height="87">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.72" ytl="6.35" xbr="275.49" ybr="64.04" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="Screenshot - 2022-02-25T141805.355.png" width="338" height="105">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="21.41" ytl="14.44" xbr="329.51" ybr="80.35" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="Screenshot - 2022-02-25T141811.579.png" width="136" height="61">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="14.22" ytl="4.12" xbr="127.39" ybr="54.97" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="Screenshot - 2022-02-25T141818.345.png" width="328" height="111">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="13.85" ytl="13.65" xbr="318.44" ybr="91.09" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="Screenshot - 2022-02-25T141824.703.png" width="161" height="80">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.38" ytl="3.42" xbr="152.26" ybr="72.03" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="Screenshot - 2022-02-25T141831.147.png" width="139" height="66">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="27.52" ytl="1.84" xbr="128.24" ybr="53.95" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="Screenshot - 2022-02-25T141837.994.png" width="462" height="108">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.42" ytl="9.42" xbr="459.21" ybr="80.46" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="Screenshot - 2022-02-25T141844.272.png" width="422" height="123">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="3.81" ytl="15.69" xbr="411.82" ybr="97.97" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="Screenshot - 2022-02-25T141851.107.png" width="363" height="114">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.32" ytl="20.53" xbr="345.12" ybr="93.13" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="Screenshot - 2022-02-25T141858.059.png" width="282" height="93">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="25.52" ytl="15.88" xbr="276.34" ybr="75.68" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="Screenshot - 2022-02-25T141905.732.png" width="215" height="99">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="28.53" ytl="15.58" xbr="207.87" ybr="79.54" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="Screenshot - 2022-02-25T141911.535.png" width="117" height="68">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="48.21" ytl="8.49" xbr="106.77" ybr="59.17" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="Screenshot - 2022-02-25T141918.613.png" width="280" height="69">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="6.46" ytl="4.10" xbr="276.33" ybr="58.97" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="Screenshot - 2022-02-25T141927.478.png" width="204" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.44" ytl="7.74" xbr="200.30" ybr="67.40" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="Screenshot - 2022-02-25T141942.048.png" width="297" height="92">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="37.62" ytl="11.98" xbr="279.99" ybr="80.93" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="Screenshot - 2022-02-25T141953.906.png" width="412" height="58">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="8.27" ytl="1.27" xbr="401.22" ybr="55.93" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="Screenshot - 2022-02-25T142001.684.png" width="194" height="121">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="28.52" ytl="27.99" xbr="187.36" ybr="97.55" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="Screenshot - 2022-02-25T142007.984.png" width="250" height="81">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.29" ytl="6.33" xbr="240.20" ybr="65.38" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="Screenshot - 2022-02-25T142014.163.png" width="324" height="96">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.25" ytl="15.43" xbr="308.36" ybr="81.20" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="Screenshot - 2022-02-25T142021.292.png" width="172" height="68">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="19.53" ytl="4.27" xbr="164.91" ybr="58.38" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="Screenshot - 2022-02-25T142027.537.png" width="259" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.11" ytl="7.24" xbr="250.67" ybr="73.33" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="Screenshot - 2022-02-25T142032.963.png" width="169" height="95">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="9.52" ytl="16.75" xbr="163.40" ybr="79.77" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="Screenshot - 2022-02-25T142042.208.png" width="264" height="130">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="17.76" ytl="34.48" xbr="261.07" ybr="96.57" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="Screenshot - 2022-02-25T142047.954.png" width="343" height="104">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.55" ytl="13.72" xbr="322.66" ybr="81.97" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="Screenshot - 2022-02-25T142053.905.png" width="264" height="117">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="20.42" ytl="21.61" xbr="258.68" ybr="85.56" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="Screenshot - 2022-02-25T142059.901.png" width="168" height="92">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="18.24" ytl="12.06" xbr="162.27" ybr="71.83" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="Screenshot - 2022-02-25T142106.743.png" width="128" height="111">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="7.88" ytl="16.99" xbr="125.93" ybr="87.49" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="Screenshot - 2022-02-25T142112.937.png" width="240" height="148">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.19" ytl="31.06" xbr="233.24" ybr="107.76" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="Screenshot - 2022-02-25T142120.549.png" width="42" height="59">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="2.05" ytl="3.10" xbr="40.55" ybr="49.60" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="Screenshot - 2022-02-25T142125.946.png" width="106" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.16" ytl="6.53" xbr="104.86" ybr="58.70" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="Screenshot - 2022-02-25T142132.115.png" width="270" height="75">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="12.48" ytl="8.74" xbr="261.59" ybr="61.65" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="Screenshot - 2022-02-25T142138.837.png" width="334" height="84">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="26.19" ytl="6.76" xbr="324.61" ybr="69.87" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="Screenshot - 2022-02-25T142147.570.png" width="127" height="117">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="15.20" ytl="24.19" xbr="116.19" ybr="85.36" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="Screenshot - 2022-02-25T142154.784.png" width="252" height="98">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="36.47" ytl="18.36" xbr="241.87" ybr="78.64" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="Screenshot - 2022-02-25T142200.375.png" width="311" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.31" ytl="1.62" xbr="309.75" ybr="54.45" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="Screenshot - 2022-02-25T142207.630.png" width="124" height="72">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="23.80" ytl="8.33" xbr="115.02" ybr="62.05" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="Screenshot - 2022-02-25T142213.956.png" width="361" height="108">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="5.07" ytl="15.92" xbr="347.21" ybr="89.94" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="Screenshot - 2022-02-25T142222.847.png" width="286" height="111">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="38.53" ytl="19.85" xbr="279.69" ybr="85.96" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="Screenshot - 2022-02-25T142230.504.png" width="238" height="77">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="1.68" ytl="3.81" xbr="236.81" ybr="61.21" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="Screenshot.png" width="220" height="79">
+    <box label="Seals Signs" occluded="0" source="manual" xtl="16.35" ytl="1.69" xbr="212.03" ybr="71.78" z_order="0">
+    </box>
+  </image>
+</annotations>

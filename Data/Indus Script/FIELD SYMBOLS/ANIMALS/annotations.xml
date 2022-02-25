@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>208526</id>
+      <name>Animals</name>
+      <size>15</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-25 16:16:07.231276+00:00</created>
+      <updated>2022-02-25 16:19:36.233153+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>14</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>300143</id>
+          <start>0</start>
+          <stop>14</stop>
+          <url>http://cvat.org/?id=300143</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>pulkit_gupta</username>
+        <email>cesarokingofswing@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Seals Signs</name>
+          <color>#ff0029</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Animals</name>
+          <color>#2a00f5</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Anthropomorphic forms</name>
+          <color>#4e834e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tree,Leaves</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Various Symbols</name>
+          <color>#78c58c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Reptiles,Fish,Birds</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-02-25 16:19:49.446645+00:00</dumped>
+  </meta>
+  <image id="0" name="Buffalo.png" width="145" height="154">
+    <box label="Animals" occluded="0" source="manual" xtl="15.50" ytl="47.80" xbr="128.54" ybr="139.04" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Bull.png" width="205" height="164">
+    <box label="Animals" occluded="0" source="manual" xtl="6.30" ytl="21.30" xbr="195.06" ybr="156.71" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Composite Motif.png" width="182" height="155">
+    <box label="Animals" occluded="0" source="manual" xtl="38.00" ytl="50.30" xbr="181.99" ybr="155.00" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Elephant.png" width="178" height="161">
+    <box label="Animals" occluded="0" source="manual" xtl="0.06" ytl="22.26" xbr="177.68" ybr="158.65" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Fabulous Animal(2,3 heads).png" width="203" height="156">
+    <box label="Animals" occluded="0" source="manual" xtl="27.70" ytl="53.61" xbr="183.95" ybr="145.84" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Fabulous Animal.png" width="160" height="154">
+    <box label="Animals" occluded="0" source="manual" xtl="23.68" ytl="40.64" xbr="135.55" ybr="138.20" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Goat-Antelope.png" width="160" height="165">
+    <box label="Animals" occluded="0" source="manual" xtl="0.87" ytl="23.66" xbr="158.35" ybr="156.68" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Group of Animals.png" width="181" height="158">
+    <box label="Animals" occluded="0" source="manual" xtl="0.00" ytl="14.94" xbr="179.91" ybr="145.66" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Hare.png" width="132" height="159">
+    <box label="Animals" occluded="0" source="manual" xtl="0.09" ytl="29.01" xbr="132.00" ybr="147.87" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Head Of Unicorn.png" width="161" height="143">
+    <box label="Animals" occluded="0" source="manual" xtl="7.71" ytl="39.60" xbr="149.78" ybr="132.29" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Ox-Antelope.png" width="168" height="163">
+    <box label="Animals" occluded="0" source="manual" xtl="0.00" ytl="24.17" xbr="168.00" ybr="158.76" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Rhino.png" width="168" height="145">
+    <box label="Animals" occluded="0" source="manual" xtl="0.52" ytl="31.41" xbr="167.72" ybr="134.84" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Tiger.png" width="153" height="167">
+    <box label="Animals" occluded="0" source="manual" xtl="0.48" ytl="23.11" xbr="153.00" ybr="155.30" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Two Heads of Unicorn.png" width="193" height="160">
+    <box label="Animals" occluded="0" source="manual" xtl="0.72" ytl="23.71" xbr="192.78" ybr="148.01" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Unicorn.png" width="176" height="167">
+    <box label="Animals" occluded="0" source="manual" xtl="16.61" ytl="23.65" xbr="154.78" ybr="159.92" z_order="0">
+    </box>
+  </image>
+</annotations>
