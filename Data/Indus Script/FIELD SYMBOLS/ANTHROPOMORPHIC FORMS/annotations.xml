@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>208534</id>
+      <name>Anthropomorphic forms</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-25 16:22:13.078319+00:00</created>
+      <updated>2022-02-25 16:23:11.327442+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>2</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>300148</id>
+          <start>0</start>
+          <stop>2</stop>
+          <url>http://cvat.org/?id=300148</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>pulkit_gupta</username>
+        <email>cesarokingofswing@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Seals Signs</name>
+          <color>#ff0029</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Animals</name>
+          <color>#2a00f5</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Anthropomorphic forms</name>
+          <color>#4e834e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tree,Leaves</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Various Symbols</name>
+          <color>#78c58c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Reptiles,Fish,Birds</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-02-25 16:23:34.632748+00:00</dumped>
+  </meta>
+  <image id="0" name="Person, Group of persons.png" width="229" height="140">
+    <box label="Anthropomorphic forms" occluded="0" source="manual" xtl="5.81" ytl="36.07" xbr="227.73" ybr="124.36" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Seated Personage.png" width="180" height="157">
+    <box label="Anthropomorphic forms" occluded="0" source="manual" xtl="0.00" ytl="28.05" xbr="180.00" ybr="155.31" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Standing Personage.png" width="182" height="162">
+    <box label="Anthropomorphic forms" occluded="0" source="manual" xtl="27.54" ytl="27.70" xbr="161.57" ybr="153.55" z_order="0">
+    </box>
+  </image>
+</annotations>

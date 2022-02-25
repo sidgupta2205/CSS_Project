@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>208541</id>
+      <name>REPTILES,FISH, BIRDS</name>
+      <size>6</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-02-25 16:25:22.916023+00:00</created>
+      <updated>2022-02-25 16:28:43.893173+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>5</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>300153</id>
+          <start>0</start>
+          <stop>5</stop>
+          <url>http://cvat.org/?id=300153</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>pulkit_gupta</username>
+        <email>cesarokingofswing@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Seals Signs</name>
+          <color>#ff0029</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Animals</name>
+          <color>#2a00f5</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Anthropomorphic forms</name>
+          <color>#4e834e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tree,Leaves</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Various Symbols</name>
+          <color>#78c58c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Reptiles,Fish,Birds</name>
+          <color>#733380</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-02-25 16:29:06.029346+00:00</dumped>
+  </meta>
+  <image id="0" name="Bird.png" width="138" height="158">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="0.63" ytl="24.48" xbr="138.00" ybr="145.08" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Fish.png" width="160" height="161">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="0.00" ytl="24.14" xbr="159.70" ybr="147.61" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Frog.png" width="124" height="160">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="0.62" ytl="26.83" xbr="119.19" ybr="138.63" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Gharial.png" width="178" height="162">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="0.00" ytl="27.96" xbr="177.40" ybr="150.52" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Serpent.png" width="150" height="155">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="0.65" ytl="20.44" xbr="149.59" ybr="145.65" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Tortoise.png" width="151" height="168">
+    <box label="Reptiles,Fish,Birds" occluded="0" source="manual" xtl="2.30" ytl="27.09" xbr="148.41" ybr="159.25" z_order="0">
+    </box>
+  </image>
+</annotations>
