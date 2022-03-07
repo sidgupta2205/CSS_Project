@@ -55,7 +55,7 @@ def extract_ROI():
                 name = child.get('name')
                 for box in child:
                             
-                    label = child[0].get('label')
+                    label = box.get('label')
                     ret,corr = check(box)
                     if ret:
                         save_img(corr,label,str(i)+".jpg",name)
